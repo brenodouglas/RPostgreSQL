@@ -140,3 +140,4 @@ O pacote já está disponível na rede espelho CRAN e pode ser instalado via ins
 [Postgresql]:http://www.postgresql.org/
 [Google Groups]:https://groups.google.com/forum/?pli=1#!forum/rpostgresql-dev
 [Repositorio oficial]:https://code.google.com/p/rpostgresql/
+[CRAN]:http://cran.r-project.org/web/packages/RPostgreSQL/index.html
