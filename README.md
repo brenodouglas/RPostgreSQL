@@ -2,7 +2,7 @@
 
 RPostgreSQL fornece uma conexão com banco de dados [DBI] do [GNU R] para [Postgresql].
 
-O pacote já está disponível na rede espelho CRAN e pode ser instalado via install.packages () de dentro R. A lista de email rpostgresql-dev@googlegroups.com está disponível no [Google Groups].
+O pacote já está disponível na rede espelho [CRAN] e pode ser instalado via install.packages () de dentro R. A lista de email rpostgresql-dev@googlegroups.com está disponível no [Google Groups].
 
 # Sumário de uso básico
 
